@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <App /> should render <App /> 1`] = `
+<Component
+  theme={
+    Object {
+      "colors": Object {
+        "dark": "#333333",
+        "light": "#ffffff",
+        "primary": "#336699",
+        "secondary": "#CC9900",
+      },
+    }
+  }
+>
+  <BrowserRouter>
+    <Memo(l) />
+    <Header />
+    <styled.div>
+      <Switch>
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/"
+        />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/users"
+        />
+        <Redirect
+          to="/"
+        />
+        <Users />
+      </Switch>
+    </styled.div>
+  </BrowserRouter>
+</Component>
+`;

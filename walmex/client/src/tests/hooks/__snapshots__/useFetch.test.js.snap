@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in custom hook useFetch should render <useFetch /> 1`] = `<useFetch />`;

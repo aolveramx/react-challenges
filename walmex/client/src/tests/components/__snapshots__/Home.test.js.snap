@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <Home /> should render <Home /> 1`] = `
+<Fragment>
+  <div>
+    Loading...
+  </div>
+  <styled.select
+    onChange={[Function]}
+  >
+    <option
+      key="0"
+      value="carrot"
+    >
+      carrot
+    </option>
+    <option
+      key="1"
+      value="apple"
+    >
+      apple
+    </option>
+    <option
+      key="2"
+      value="grapes"
+    >
+      grapes
+    </option>
+    <option
+      key="3"
+      value="cake"
+    >
+      cake
+    </option>
+    <option
+      key="4"
+      value="tv"
+    >
+      tv
+    </option>
+    <option
+      key="5"
+      value="cracker"
+    >
+      cracker
+    </option>
+    <option
+      key="6"
+      value="chips"
+    >
+      chips
+    </option>
+    <option
+      key="7"
+      value="ham"
+    >
+      ham
+    </option>
+  </styled.select>
+</Fragment>
+`;
